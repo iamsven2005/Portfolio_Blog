@@ -1,13 +1,13 @@
 ---
 title: 'My First Time Using Neovim'
 excerpt: ' All new technologies have a beginning, and here is mine. This markdown was done with neovim.'
-coverImage: '/assets/blog/hello-world/thumbnail.jpg'
+coverImage: '/assets/blog/hello-world/thumbnail.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Joe Haddad
-  picture: '/assets/blog/authors/joe.jpeg'
+  name: Tools
+  picture: '/assets/blog/authors/Tool.png'
 ogImage:
-  url: '/assets/blog/hello-world/thumbnail.jpg'
+  url: '/assets/blog/hello-world/thumbnail.png'
 ---
 
 I have always been a fan of productivity, and Primeagen. I have always looked for ways to improve and my development experience more efficient and friendly, as such I landed onto NeoVim. I have tried out Nano, Vim, and Emacs and I have seen the many videos and friends customizing their nvim config. I felt if I were able to create an environment that I am more comfortable working in, I can go blazingly faster.

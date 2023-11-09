@@ -5,7 +5,7 @@ coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2023-04-18T05:35:07.322Z'
 author:
   name: Portfolio
-  picture: 'https://lh4.googleusercontent.com/79lDgYe4H-mDiecIqGSCcbQLBli1Ok82JZdLsPPXQyHRdhlCEA0wnGrTqHCPzTU-_7nNxvMpuE33WaJtpGba_tkFXroIigW_XrJvWOEOlX1SLoJb'
+  picture: '/assets/blog/authors/School.png'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---

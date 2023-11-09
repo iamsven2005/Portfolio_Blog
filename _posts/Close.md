@@ -1,11 +1,11 @@
 ---
 title: 'A Close Encounter:'
-excerpt: 'A close callto potentially many difficult situations and troubles.'
+excerpt: 'A close call to a potentially many difficult situations and troubles.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2023-03-16T05:35:07.322Z'
 author:
   name: Nanyang Polytechnic
-  picture: 'https://lh5.googleusercontent.com/LBIIE_K9cFF1uu1mO3cPFcF6o6g1mplOCfzcZmVR-8PgFAN3hW68hNNvr-U0NE7445nwBR5gjhHiQlPgAb6-nOzzkjlElacheue4NutqZzZmsSsXrDoQu_P62qqcUwT1TA=w1280'
+  picture: '/assets/blog/authors/School.png'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
@@ -29,3 +29,6 @@ Two weeks rolled by, and soon I asked my friend if the case was over. Just when 
 ## My conclusions
 
 There was many errors done on my part, I had done many errors in the whole process of developing this app development project. I will continuously improve my self and try to make less mistakes.
+
+## End Notes
+I have apologized to the relevant parties and the issue had ended on good terms.
