@@ -1,19 +1,19 @@
 ---
 title: 'My First Time Using Neovim'
 excerpt: ' All new technologies have a beginning, and here is mine. This markdown was done with neovim.'
-coverImage: '/assets/blog/preview/cover.jpg'
+coverImage: '/assets/blog/hello-world/thumbnail.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Joe Haddad
   picture: '/assets/blog/authors/joe.jpeg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/hello-world/thumbnail.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+I have always been a fan of productivity, and Primeagen. I have always looked for ways to improve and my development experience more efficient and friendly, as such I landed onto NeoVim. I have tried out Nano, Vim, and Emacs and I have seen the many videos and friends customizing their nvim config. I felt if I were able to create an environment that I am more comfortable working in, I can go blazingly faster.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+## Week 1
 
-## Lorem Ipsum
+<iframe width="930" height="523" src="https://www.youtube.com/embed/cK2T1-Dd2Fk" title="Using Neovim as a newbie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+I have decided to download NeoVim from NeoVim.ion and went through the installation wizard. I then went to github to copy the clone of kickstart link here: https://github.com/nvim-lua/kickstart.nvim The above video is my first time using and recording my experience of editing and exploring some commands on neovim. Feels a lot like vim but ####better
