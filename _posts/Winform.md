@@ -43,3 +43,5 @@ This was my first demo presentation to showcase who did what for this C# assignm
 ## Week 13-15
 __Youtube Demo__
 [![IOT_PROJECT](	https://i.ytimg.com/vi/hXFbMo-jqu8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnZRvGH8fj0JtONPd5KMn_t_KBpg)](https://youtu.be/hXFbMo-jqu8?si=Z98bKAU0b2aV02hO)
+
+Revamped the designed and added a few new features. Migrated booking to be a approval system to add server items. Created documentation system as well as a assignment task feature.
