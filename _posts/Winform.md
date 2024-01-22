@@ -39,3 +39,7 @@ __Canva Slides__
 [![IOT_SLIDES](		https://document-export.canva.com/9NiWc/DAF0qZ9NiWc/181/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20240112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240112T034116Z&X-Amz-Expires=10877&X-Amz-Signature=b31a43ff49dd9449d5e0fb9095c15f4ced319f2da6a6f5db765307ce7c05464b&X-Amz-SignedHeaders=host&response-expires=Fri%2C%2012%20Jan%202024%2006%3A42%3A33%20GMT)](https://www.canva.com/design/DAF0qZ9NiWc/5WGwjJU8LcNy9gzHr-2k_g/edit?utm_content=DAF0qZ9NiWc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 This was my first demo presentation to showcase who did what for this C# assignment. It uses geist from vercel and heavily inspired by vercel's design choices. We decidecd to use midjourney to prompt related images.
+
+## Week 13-15
+__Youtube Demo__
+[![IOT_PROJECT](	https://i.ytimg.com/vi/hXFbMo-jqu8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnZRvGH8fj0JtONPd5KMn_t_KBpg)](https://youtu.be/hXFbMo-jqu8?si=Z98bKAU0b2aV02hO)
