@@ -1,6 +1,23 @@
 import Container from './container'
 import cn from 'classnames'
 import { EXAMPLE_PATH } from '../lib/constants'
+import { Button } from './ui/button'
+import {
+  Menubar,
+  MenubarCheckboxItem,
+  MenubarContent,
+  MenubarItem,
+  MenubarMenu,
+  MenubarRadioGroup,
+  MenubarRadioItem,
+  MenubarSeparator,
+  MenubarShortcut,
+  MenubarSub,
+  MenubarSubContent,
+  MenubarSubTrigger,
+  MenubarTrigger,
+} from "./ui/menubar"
+import Link from 'next/link'
 
 type Props = {
   preview?: boolean
@@ -29,14 +46,7 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              The source code for this blog is{' '}
-              <a
-                href={`https://github.com/iamsven2005/blog-starter-kit`}
-                className="underline hover:text-blue-600 duration-200 transition-colors"
-              >
-                available on GitHub
-              </a>
-              .
+<Link href="/post">View Blog</Link>
             </>
           )}
         </div>

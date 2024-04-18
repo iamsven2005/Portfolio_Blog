@@ -1,1 +1,27 @@
-<h1>hello</h1>gg
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<form>
+    <label for="url-input">Enter a URL:</label>
+    <input name="url-input" id="url-input" fdprocessedid="iexf2j">
+    <button fdprocessedid="g9gztm" onclick="generateQRCode()" type="button">Generate QR Code</button>
+</form>
+<div id="qr-code"></div>
+<h1>hello</h1>data:text/html;base64,
+<script>
+    function generateQRCode() {
+        var url = document.getElementById("url-input").value;
+        var base64Url = btoa(url); // Convert URL to base64
+        var init = "data:text/html;base64,"
+        var qrCodeDiv = document.getElementById("qr-code");
+        qrCodeDiv.innerHTML = "";
+        
+        new QRCode(qrCodeDiv, {
+            text: init + base64Url,
+            width: 256,
+            height: 256,
+            colorDark: "#000000",
+            colorLight: "#ffffff",
+            correctLevel: QRCode.CorrectLevel.H
+        });
+    }
+    
+</script>
