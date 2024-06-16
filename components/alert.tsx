@@ -46,7 +46,7 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-<Link href="/post">View Blog</Link>
+<Link href="/posts">View Blog</Link>
             </>
           )}
         </div>

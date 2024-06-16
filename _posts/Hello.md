@@ -68,4 +68,9 @@ file_path = 'index.html'
 html_to_compressed_binary(file_path)
 ```
 
-Of course this is just a simple compression algorithm but I feel that I can write python code decently fast in neovim now.
+Of course this is just a simple compression algorithm but I feel that I can write python code decently fast in neovim now. 
+
+## Month 1
+I was reading some books and turns out I reinvented RLE, well at least I did not share too much about it.
+I still prefer using vsc for its ability to search for things easily as there are just so many ways to search and so many prebuilt shortcuts. I have implemented vim motions into vsc as I geniunely see the impact is has made for me. I visual studio is such a pain for me to load that I just use neovim as a way to do quick edits and run programs while I default to vsc for bigger code bases where I have to jump around more frequently. VSC has a better environment to solve merge changes than the one I currently have. However I do use the terminal withing vsc with neovim and I still works perfectly :)
+![Azure](/assets/blog/hello-world/nvim.png)

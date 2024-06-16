@@ -31,4 +31,4 @@ Two weeks rolled by, and soon I asked my friend if the case was over. Just when 
 There was many errors done on my part, I had done many errors in the whole process of developing this app development project. I will continuously improve my self and try to make less mistakes.
 
 ## End Notes
-I have apologized to the relevant parties and the issue had ended on good terms.
+I have apologized to the relevant parties and the issue had ended on good terms. I can only apply for 3 months internship, reject previous offers repeat a module, cant go for overseas trip, and cannot take up many school opporutnities.
