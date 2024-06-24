@@ -1,4 +1,2 @@
-##This Is Kinda Cool##
-Sven's Blog, have fun!
-
-This is a blog made and experimented with NextJs. I will be updating soon!
+##Portfolio-Blog
+This is a blog to take down notes of some highlights in my journey
